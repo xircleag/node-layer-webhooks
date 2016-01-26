@@ -1,0 +1,24 @@
+{
+  "token": "qrXhdpvsEuv2r93KzJJR0FucUWZdpSdHpXHGG8TCkjxhxK7N",
+  "appId": "e4fd3974-20fe-11e5-89c5-080725007e28",
+  "appIdFull": "layer:///apps/staging/e4fd3974-20fe-11e5-89c5-080725007e28",
+  "uuid": {
+    "normal": "e4fd3974-20fe-11e5-89c5-080725007e28",
+    "prefixed": "layer:///apps/staging/e4fd3974-20fe-11e5-89c5-080725007e28",
+    "invalid1": "sgfaljshdfkluasfkua",
+    "invalid2": 123,
+    "invalid3": null
+  },
+  "webhooks": {
+    "success": {
+      "url": "https://api.layer.com/apps/e4fd3974-20fe-11e5-89c5-080725007e28/webhooks/12b47af5-5824-476e-93ff-465dad56e1f4",
+      "target_url": "https://10.10.10.10:3000/message-sent",
+      "target_config": { "name": "How didly do neighbor" },
+      "id": "layer:///apps/e4fd3974-20fe-11e5-89c5-080725007e28/webhooks/12b47af5-5824-476e-93ff-465dad56e1f4",
+      "status": "inactive",
+      "event_types": [ "message.sent" ],
+      "created_at": "2016-01-12T21:14:07.815Z",
+      "secret": "my secret"
+    }
+  }
+}

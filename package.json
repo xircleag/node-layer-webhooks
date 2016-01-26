@@ -1,0 +1,28 @@
+{
+  "name": "layer-webhooks",
+  "version": "1.0.0",
+  "description": "Node.js library, which provides a wrapper for the Layer Webhooks API",
+  "publishConfig": {
+    "registry": "http://registry.npmjs.org/"
+  },
+  "main": "lib/index.js",
+  "scripts": {
+    "test": "mocha test/"
+  },
+  "keywords": [
+    "Layer",
+    "API",
+    "SDK",
+    "Webhooks"
+  ],
+  "license": "Apache-2.0",
+  "repository": "layerhq/node-layer-webhooks",
+  "devDependencies": {
+    "mocha": "^2.2.5",
+    "nock": "^2.7.0",
+    "should": "^7.0.4"
+  },
+  "dependencies": {
+    "bluebird": "^2.9.34"
+  }
+}
