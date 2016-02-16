@@ -1,5 +1,5 @@
 # Layer Webhook API for node.js
-[![Build Status](http://img.shields.io/travis/layerhq/node-layer-webhooks.svg)](https://travis-ci.org/layerhq/node-layer-api)
+[![Build Status](http://img.shields.io/travis/layerhq/node-layer-webhooks.svg)](https://travis-ci.org/layerhq/node-layer-webhooks)
 [![npm version](http://img.shields.io/npm/v/layer-webhooks.svg)](https://npmjs.org/package/layer-webhooks)
 
 A Node.js library, which provides a wrapper for the [Layer](https://layer.com) Webhooks API.
