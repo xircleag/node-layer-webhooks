@@ -89,7 +89,7 @@ layer.webhooks.get(webhookId, function(err, res) {
 ---------------------------------------
 
 
-### webhooks.list([callback])
+### webhooks.list(callback)
 
 List all webhooks for your app.
 
